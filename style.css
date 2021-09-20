@@ -1,0 +1,55 @@
+html{
+    background-image:url("Donationimg.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+    font-family: all;
+}
+.heading{
+    font-family:'Segoe UI', Tahoma,  Verdana, sans-serif, cursive;
+    text-align:center;
+    font-size:30px;
+}
+.heading h2{
+    margin-top:5%;
+    margin-top:10px;
+    text-align: center;
+}
+.messge{
+    font-family:fantasy;
+    text-align:center;
+    text-decoration: all;
+    margin-bottom:30px;
+    font-size: 20px;    
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.contact{
+    font-family: monospace;
+}
+
+.whole{
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    background-color: skyblue;
+    border-radius: 50px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );   
+    position:absolute;
+    left:40%;
+    padding: 70px 0;
+}
+body{
+    position: absolute;
+    padding: 160px 0;
+    left:17%;
+    width:50%;
+}
+
